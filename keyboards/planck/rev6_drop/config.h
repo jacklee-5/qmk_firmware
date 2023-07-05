@@ -26,7 +26,10 @@
 #define AUDIO_PIN A5
 #define AUDIO_PIN_ALT A4
 #define AUDIO_PIN_ALT_AS_NEGATIVE
-
+#define TAPPING_TERM 200
+//#define PERMISSIVE_HOLD_PER_KEY
+//#define HOLD_ON_OTHER_KEY_PRESS
+#define HOLD_ON_OTHER_KEY_PRESS_PER_KEY
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
